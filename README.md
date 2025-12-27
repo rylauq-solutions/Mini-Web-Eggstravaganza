@@ -74,15 +74,15 @@ Mini-Web-Eggstravaganza/
 
 ## **Marvel Cinematic Universe Easter Egg Page**  
 A fun tribute to Marvel fans with dynamic visuals:  
-![Marvel Easter Egg](https://github.com/er-YOUR_NEW_NAME/Mini-Web-Eggstravaganza/blob/main/Screenshots/Marvel%20Easter%20Egg.png)  
+![Marvel Easter Egg](https://github.com/rylauq-solutions/Mini-Web-Eggstravaganza/blob/main/Screenshots/Marvel%20Easter%20Egg.png)  
 
 ## **Registration Page**  
 Clean design with input validation and user guidance:  
-![Registration Page](https://github.com/er-YOUR_NEW_NAME/Mini-Web-Eggstravaganza/blob/main/Screenshots/Registration%20Page.png)  
+![Registration Page](https://github.com/rylauq-solutions/Mini-Web-Eggstravaganza/blob/main/Screenshots/Registration%20Page.png)  
 
 ## **Login Page**  
 Functional and user-friendly login system:  
-![Login Page](https://github.com/er-YOUR_NEW_NAME/Mini-Web-Eggstravaganza/blob/main/Screenshots/Login%20Page.png)  
+![Login Page](https://github.com/rylauq-solutions/Mini-Web-Eggstravaganza/blob/main/Screenshots/Login%20Page.png)  
 
 ---
 
